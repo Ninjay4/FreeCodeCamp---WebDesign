@@ -1,1 +1,12 @@
-h1, h2, p {text-align: center;}
+h1, h2, p {
+    text-align: center;
+}
+body {
+    /*
+    background-color: burlywood;
+    */
+}
+div {
+    background-color: burlywood; 
+    width: 80%;
+}
